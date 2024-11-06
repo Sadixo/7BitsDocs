@@ -21,8 +21,8 @@ body {
 /* Main che contiene il contenuto */
 main {
     background-color: #0a2d4a; /* Blu chiaro più tenue per il contenitore */
-    padding: 40px;
-    border-radius: 8px; /* Angoli arrotondati per il contenitore */
+    padding: 1em;
+    border-radius: 10%; /* Angoli arrotondati per il contenitore */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombra per effetto di profondità */
     width: 90%;
     max-width: 800px; /* Limita la larghezza massima */
@@ -45,7 +45,7 @@ header .logo img {
 header .group-description p {
     max-width: 600px;
     text-align: center;
-    font-size: 18px;
+    font-size: 1em;
     color: #555; /* Colore scuro per il testo della descrizione */
 }
 #GroupName {
@@ -67,29 +67,29 @@ header .group-description p {
 }
 /* Titolo principale centrato */
 h1 {
-    font-size: 30px;
+    font-size: 2em;
     text-align: left; /* Allineato a sinistra */
-    margin-bottom: 20px;
+    margin-bottom: 0.5em;
     color: #fff; /* Colore molto scuro per h1 */
-    margin-left: 20px; /* Distanza a sinistra per allineare meglio con i link */
+    margin-left: 0.5em; /* Distanza a sinistra per allineare meglio con i link */
 }
 
 /* Titoli secondari (h2) */
 h2 {
-    font-size: 24px;
+    font-size: 1.5em;
     text-align: left; /* Allineato a sinistra */
-    margin-bottom: 15px;
-    color: #39A2AE; /* Colore grigio scuro per h2 */
-    margin-left: 28px; /* Distanza a sinistra per allineare meglio con i link */
+    margin-bottom: 0.5em;
+    color: #fff; /* Colore grigio scuro per h2 */
+    margin-left: 1em; /* Distanza a sinistra per allineare meglio con i link */
 }
 
 /* Titoli terziari (h3) */
 h3 {
     font-size: 18px;
     text-align: left; /* Allineato a sinistra */
-    margin-bottom: 15px;
-    color: #6D6A75; /* Colore grigio chiaro per h3 */
-    margin-left: 40px; /* Distanza a sinistra per allineare meglio con i link */
+    margin-bottom: 0.5em;
+    color: #F3F1F1; /* Colore grigio chiaro per h3 */
+    margin-left: 1.5em; /* Distanza a sinistra per allineare meglio con i link */
 }
 
 
