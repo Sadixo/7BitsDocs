@@ -51,7 +51,7 @@ header .group-description p {
 #GroupName {
     font-size: 36px; /* Dimensione del testo grande */
     font-weight: bold; /* Grassetto per risaltare */
-    color: #0066ff; /* Colore dorato per un buon contrasto */
+    color: #fff; /* Colore dorato per un buon contrasto */
     letter-spacing: 2px; /* Spaziatura tra le lettere */
     text-transform: uppercase; /* Rende il testo tutto maiuscolo */
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Ombra per far risaltare il testo */
