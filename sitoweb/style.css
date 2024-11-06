@@ -70,7 +70,7 @@ h1 {
     font-size: 30px;
     text-align: left; /* Allineato a sinistra */
     margin-bottom: 20px;
-    color: #1a1a1a; /* Colore molto scuro per h1 */
+    color: #fff; /* Colore molto scuro per h1 */
     margin-left: 20px; /* Distanza a sinistra per allineare meglio con i link */
 }
 
@@ -79,7 +79,7 @@ h2 {
     font-size: 24px;
     text-align: left; /* Allineato a sinistra */
     margin-bottom: 15px;
-    color: #333333; /* Colore grigio scuro per h2 */
+    color: #39A2AE; /* Colore grigio scuro per h2 */
     margin-left: 28px; /* Distanza a sinistra per allineare meglio con i link */
 }
 
@@ -88,7 +88,7 @@ h3 {
     font-size: 18px;
     text-align: left; /* Allineato a sinistra */
     margin-bottom: 15px;
-    color: #666666; /* Colore grigio chiaro per h3 */
+    color: #6D6A75; /* Colore grigio chiaro per h3 */
     margin-left: 40px; /* Distanza a sinistra per allineare meglio con i link */
 }
 
