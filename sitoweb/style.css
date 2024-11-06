@@ -8,8 +8,8 @@
 /* Impostazioni generali per il body */
 body {
     font-family: Arial, sans-serif;
-    background-color: #bbdefb; /* Blu chiaro tenue per lo sfondo del body */
-    color: #333; /* Colore scuro per il testo, facilmente leggibile */
+    background-color: #02121f; /* Blu chiaro tenue per lo sfondo del body */
+    color: #fff; /* Colore scuro per il testo, facilmente leggibile */
     line-height: 1.6;
     min-height: 100vh;
     display: flex;
@@ -20,7 +20,7 @@ body {
 
 /* Main che contiene il contenuto */
 main {
-    background-color: #e1f5fe; /* Blu chiaro più tenue per il contenitore */
+    background-color: #0a2d4a; /* Blu chiaro più tenue per il contenitore */
     padding: 40px;
     border-radius: 8px; /* Angoli arrotondati per il contenitore */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombra per effetto di profondità */
