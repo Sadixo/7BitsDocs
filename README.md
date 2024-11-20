@@ -20,3 +20,5 @@ Si segue quindi un modello *git-flow semplificato*, e pertanto i due branch sopr
 
 Tutta la documentazione è consultabile nella pagina web:
 <https://sevenbitsswe.github.io/7BitsDocs/>
+
+blablbla
